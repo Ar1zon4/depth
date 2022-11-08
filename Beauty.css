@@ -1,0 +1,293 @@
+*{
+    margin: 1px;
+    padding: 0;
+    border-radius: 7px;
+    
+}
+
+.uu{
+    background-color: black;
+    height: 90px;
+    overflow: hidden;
+}
+
+ .uu li{
+    display: inline;
+}
+
+.oo a{
+    text-decoration: none;
+    padding: 50px 90px;
+    color: blanchedalmond;
+    
+} 
+
+.nav2 li{
+    display: inline;
+    text-decoration: none;
+}
+
+#only{
+    border: 1px solid black;
+    margin: 40px;
+    border-radius: 20%;
+
+}
+
+#only:hover{
+    color: black;
+}
+
+.uu h1{
+    color: blanchedalmond;
+    font-size: 15px;
+    float: left;
+    padding-left: 30px;
+    padding-top: 30px;
+
+}
+
+.oo{
+    float: right;
+    padding: 30px;
+}
+
+.no{
+    background: linear-gradient(rgb(36, 10, 10), grey);
+    height: 600px;
+}
+
+h2{
+    padding-top: 40px;
+    padding-left: 20px;
+
+}
+
+.no p{
+    
+    font-size: 30px;
+    color: blanchedalmond;
+    padding-top: 100px;
+    padding-left: 30px;
+
+
+    
+}
+.on{
+    overflow: hidden;
+    float: left;
+
+
+}
+.soweto img{
+    float: right;
+    width: 40%;
+    overflow: hidden;
+    height: 400px;
+} 
+
+h3{
+    font-size: 15px;
+    padding-top: 100px;
+    padding-left: 40px;
+
+
+}
+
+.red{
+    background: linear-gradient(white, grey);
+    height: 300px;
+}
+
+.red h4{
+    margin: 50px;
+}
+
+h5{
+    font-size: 20px;
+    margin: 50px;
+}
+
+.travis{
+    float: left;
+    width: 30%;
+    padding-left: 120px;
+}
+
+.scott{
+    float: left;
+    width: 20%;
+    
+}
+
+.convert{
+    float: left;
+    width: 20%;
+
+}
+.traffic{
+    /* float: left; */
+    
+    
+}
+
+
+.loki{
+    font-size: 40px;
+}
+
+.wallet{
+    font-size: 40px;
+}
+
+.apple{
+    font-size: 40px;
+}
+
+.street{
+    font-size: 40px;
+}
+
+.crunch{
+    background: linear-gradient(black, skyblue);
+    height: 400px;
+    width: 100%;
+}
+
+
+
+
+
+.feast p{
+    font-size: 20px;
+    color: lightcoral;
+    padding: 40px 60px;
+    /* padding-top: 50px; */
+    /* padding-right: 150px; */
+    /* text-align: center; */
+    
+}
+
+.feast h6{
+    color: whitesmoke;
+    font-size: 30px;
+    padding-top: 100px;
+   
+
+}
+
+.feast{
+    
+    /* overflow: hidden; */
+    /* float: right; */
+    display: flex;
+    
+}
+
+.feast h6:hover{
+    color: hotpink;
+    
+}
+
+img{
+    width: 30%;
+    padding-left: 60px;
+    /* margin: 35px; */
+
+}
+
+.nero{
+    height: 600px;
+    background: linear-gradient(indigo, white);
+}
+
+.run img{
+    height: 200px;
+    width: 20% ;
+    padding-left: 50px;
+}
+
+.run p{
+    padding-left: 80px;
+}
+
+.fall img{
+    
+    height: 200px;
+    width: 20% ;
+    padding-left: 50px;
+}
+
+.press{
+    float: right;
+    padding-bottom: 50px;
+}
+
+@media(max-width:500px){
+    .uu li{
+        display: inline-block;
+    }
+    .uu{
+        height: 200px;
+
+    }
+    .oo a{
+        text-decoration: none;
+        color: blanchedalmond;
+        padding-left: 100px;
+        
+    }
+    .soweto img{
+        float: none;
+        width: 40%;
+        overflow: hidden;
+        height: 100px;
+    } 
+    .red{
+        height: 1000px;
+    }
+    .solve{
+        margin: none;
+       display: inline-block;
+       padding: 40px;
+
+
+    }
+    .crunch{
+        
+        height: 700px;
+        
+    }
+
+    .feast{
+        
+        overflow: hidden;
+        float: none;
+        
+    }
+    .feast img{
+        float: right;
+
+    }
+    
+    .travis{
+        float: none;
+        /* padding-left: 120px; */
+    }
+    
+    .scott{
+        
+        /* padding-top: 300px; */
+        /* padding-right: 40px; */
+    }
+    
+    .convert{
+        pa
+    
+    }
+
+    .traffic{
+        padding-top: 200px;
+        width: 40%;
+    }
+}
